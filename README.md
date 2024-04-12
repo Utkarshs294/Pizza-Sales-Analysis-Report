@@ -2,11 +2,11 @@
 
 I have made a project based on the analysis of Pizza sales report.
 
-Objective:-
+Objective :-
 
 It utilize the advanced data analysis to extract valuable insights from a database, this initiative empowers the business to make informed decision making process.
 
-Insights:-
+Insights :-
 
 - The most ordered pizza types is thai chicken pizza.
 - The most common pizza size ordered is Long (L).
